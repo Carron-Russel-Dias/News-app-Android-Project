@@ -1,7 +1,7 @@
 # NewsNow App: Your Ultimate News Browsing Experience 🌐
 
 Explore the source code for the NewsNow Android app – a powerful news browsing application that seamlessly integrates the RecyclerView API, dynamic category buttons, and the News API using NewsApiClient. Effortlessly fetch and display the latest news articles with a sleek loading indicator for a polished user experience.
-<img width="609" alt="Screenshot 2023-08-15 at 11 33 03" src="https://github.com/bimalkaf/Android_News_App/assets/60041910/c54173b3-d7fa-463d-9167-681e20969ccd">
+<img width="609" alt="Screenshot 2023-08-15 at 11 33 03" src="images/Screenshot 2025-10-18 014714.png">
 
 ## Key Features
 
